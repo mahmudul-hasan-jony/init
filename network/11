@@ -1,0 +1,3 @@
+from preious output line 1 has our local ip.
+from previous output we can see there is "nat" in line 2.
+NAT stands for Network Address Translations. NAT is a method of remapping that makes the link between local ip to public ip.
