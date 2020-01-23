@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat /etc/debian_version
+
+#debian version can be found here  /etc/debian_version
