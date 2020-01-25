@@ -1,0 +1,1 @@
+The RSA keys of systems contains at (/home/user/.ssh) folder. In order to generate the RSA key we have to use ssh-keygen
