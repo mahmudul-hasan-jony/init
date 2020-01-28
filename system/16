@@ -1,0 +1,7 @@
+It can be done using cron. It also can be done using following process.
+
+# for this exercise first I installed "at" using "apt-get install at"
+# then "at now + 1 minutes" or "at now + 3 days"
+# echo "Hello Hivers" > hive.txt
+# for exit use ctrl+d
+# now wait for that moment
